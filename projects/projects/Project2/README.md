@@ -1,7 +1,7 @@
-# 🚀 Project2
+# 🚀 Project2  
 
 ## 📌 Description  
-Personal Website built with GitHub Pages.
+This project contains structured documentation to explain its purpose.
 
 ## 🛠 Technologies Used  
 - Technology 1  
@@ -27,6 +27,10 @@ python main.py
 
 ## 🖼 Screenshots  
 *(Add images later if applicable.)*
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-HERE)  
+- 🌐 [GitHub](https://github.com/arifkhanarsalan)  
 
 ## 📝 License  
 This project is licensed under the **MIT License**.

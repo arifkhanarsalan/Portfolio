@@ -6,9 +6,9 @@
 - Building expertise in **software development, biomechanics, and AI**.  
 
 ## 📂 Featured Projects  
-- [🔗 Project 1 - API Documentation](projects/Project1)  
-- [🔗 Project 2 - Technical Writing Samples](projects/Project2)  
-- [🔗 Project 3 - Personal Website (GitHub Pages)](projects/Project3)  
+- [🔗 Project 1 - API Documentation](projects/Project1/README.md)  
+- [🔗 Project 2 - Technical Writing Samples](projects/Project2/README.md)  
+- [🔗 Project 3 - Personal Website (GitHub Pages)](projects/Project3/README.md)  
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-HERE)  
