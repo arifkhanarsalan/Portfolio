@@ -1,0 +1,48 @@
+# 🚀 Project 1 - API Documentation
+
+## 📌 Description  
+This project contains structured API documentation to help developers integrate seamlessly.
+
+## 🛠 Technologies Used  
+- OpenAPI Specification  
+- Markdown  
+- Swagger  
+
+## 🔥 Features  
+- Clear API endpoints  
+- Authentication details  
+- Request and response examples  
+
+## 💻 Installation  
+```bash
+# Clone the repository
+git clone https://github.com/arifkhanarsalan/Portfolio.git
+
+# Example API request
+curl -X GET "https://api.example.com/resource" -H "Authorization: Bearer TOKEN"
+
+
+---
+
+### **✅ Step 3.3: Save the File**
+Once you’ve pasted the content, **save and exit** the file by:  
+1. **Press** `Ctrl + X` (to exit).  
+2. **Press** `Y` (to confirm saving).  
+3. **Press** `Enter` (to apply changes).  
+
+✅ **Now `projects/Project1/README.md` is updated!**  
+
+---
+
+### **✅ Step 3.4: Repeat for Project 2**  
+Now, repeat the process for **Project 2**.  
+
+**Open Project 2 README:**  
+```bash
+nano projects/Project2/README.md
+
+nano projects/Project3/README.md
+
+ls projects/Project1 projects/Project2 projects/Project3
+
+
