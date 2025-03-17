@@ -1,0 +1,153 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Section Styling */
+section {
+    padding: 40px;
+    border-bottom: 1px solid #ddd;
+}
+
+h2 {
+    color: #444;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 15px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Contact Section Styling */
+#contact {
+    background-color: #e8f0fe;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 30px auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#contact h2 {
+    color: #2c3e50;
+}
+
+#contact p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+#contact a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    color: #005599;
+    text-decoration: underline;
+}
+#projects {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: 30px auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#projects h2, #projects h3 {
+    color: #2c3e50;
+}
+
+#projects ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+#projects li {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #0077cc;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Styling for project sections */
+#technical, #creative, #apis, #industrial {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 700px;
+}
+
